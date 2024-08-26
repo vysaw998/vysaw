@@ -1,1 +1,2 @@
 Address : https://explorer-evm.testnet.swisstronik.com/address/0xaCF84CED4eedD053C0417082F09bf2bB2d45899E
+Address : https://explorer-evm.testnet.swisstronik.com/address/0xDDE617DA1E6bf6C05d0AA694e13Df1744433A8Ca
